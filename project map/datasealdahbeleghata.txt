@@ -1,0 +1,347 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.5671792,
+                "lng": 88.3930286
+            },
+            "southwest": {
+                "lat": 22.5632836,
+                "lng": 88.3700178
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "fare": {
+            "currency": "INR",
+            "text": "₹7.00",
+            "value": 7
+        },
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "1:04pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554968091
+                },
+                "departure_time": {
+                    "text": "12:33pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554966214
+                },
+                "distance": {
+                    "text": "3.1 km",
+                    "value": 3120
+                },
+                "duration": {
+                    "text": "31 mins",
+                    "value": 1877
+                },
+                "end_address": "Beleghata, Kolkata, West Bengal, India",
+                "end_location": {
+                    "lat": 22.5667194,
+                    "lng": 88.39296329999999
+                },
+                "start_address": "Sealdah, Sealdah, Raja Bazar, Kolkata, West Bengal 700014, India",
+                "start_location": {
+                    "lat": 22.5671792,
+                    "lng": 88.3706143
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 234
+                        },
+                        "duration": {
+                            "text": "3 mins",
+                            "value": 173
+                        },
+                        "end_location": {
+                            "lat": 22.56537,
+                            "lng": 88.370081
+                        },
+                        "html_instructions": "Walk to Sealdah-BR Singh Hospital",
+                        "polyline": {
+                            "points": "{svhCi{jzO@ELONGLGN?NDLJJHNHNHPFLFLVtA`@vA`@DK"
+                        },
+                        "start_location": {
+                            "lat": 22.5671792,
+                            "lng": 88.3706143
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 124
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 91
+                                },
+                                "end_location": {
+                                    "lat": 22.5662716,
+                                    "lng": 88.3703554
+                                },
+                                "html_instructions": "Head <b>southeast</b> toward <b>Sealdah Station Rd</b><div style=\"font-size:0.9em\">Pass by OLA Booking Counter Sealdah (on the right in 71&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "{svhCi{jzO@ELONGLGN?NDLJJHNHNHPFLFLV"
+                                },
+                                "start_location": {
+                                    "lat": 22.5671792,
+                                    "lng": 88.3706143
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 103
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 76
+                                },
+                                "end_location": {
+                                    "lat": 22.5653965,
+                                    "lng": 88.3700178
+                                },
+                                "html_instructions": "Slight <b>left</b> at पब्लिक टॉयलेट /PUBLIC TOILET, SEALDAH RAILWAY STATION onto <b>Sealdah Station Rd</b><div style=\"font-size:0.9em\">Pass by Toilet Pay And Use (on the left in 20&nbsp;m)</div>",
+                                "maneuver": "turn-slight-left",
+                                "polyline": {
+                                    "points": "envhCwyjzOtA`@vA`@"
+                                },
+                                "start_location": {
+                                    "lat": 22.5662716,
+                                    "lng": 88.3703554
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "7 m",
+                                    "value": 7
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 6
+                                },
+                                "end_location": {
+                                    "lat": 22.56537,
+                                    "lng": 88.370081
+                                },
+                                "html_instructions": "Turn <b>left</b> at Unique Air Travels Pvt Ltd onto <b>Parikshit Roy Ln</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "whvhCswjzODK"
+                                },
+                                "start_location": {
+                                    "lat": 22.5653965,
+                                    "lng": 88.3700178
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "2.5 km",
+                            "value": 2515
+                        },
+                        "duration": {
+                            "text": "9 mins",
+                            "value": 518
+                        },
+                        "end_location": {
+                            "lat": 22.563662,
+                            "lng": 88.39225599999999
+                        },
+                        "html_instructions": "Bus towards New Town Bus Terminus",
+                        "polyline": {
+                            "points": "{hvhCexjzOHDJ]HS~BoGx@kANSNUl@w@Z]|@y@FGDEHIFEBE@G@I@E?YAWEc@Cc@A{@A]?EAGAIEMGKc@o@QUOSyBkCACWYEEMOOQEGgAmAa@_@GIm@k@g@e@IGGGGGCIACAEAEMaBAEA[CMGcAK{@AQC_@CQ?M?G@G@]@Q@GBY@M?CD]@E?IFe@FMHYHS?C@IBUHw@TaDNmCJs@PuAb@_DNcANqAD[@ED_@Fg@Di@TmBJm@ZqCFa@TyBNqALiA@I@QFm@?EBSDW?CTgBDYLw@?GHs@Dm@?AJw@BMHi@PqAD_@L_AFa@EA"
+                        },
+                        "start_location": {
+                            "lat": 22.5654216,
+                            "lng": 88.3701064
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.563662,
+                                    "lng": 88.39225599999999
+                                },
+                                "name": "Rasmoni Bazar Road"
+                            },
+                            "arrival_time": {
+                                "text": "1:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554967814
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.5654216,
+                                    "lng": 88.3701064
+                                },
+                                "name": "Sealdah-BR Singh Hospital"
+                            },
+                            "departure_time": {
+                                "text": "12:51pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554967296
+                            },
+                            "headsign": "New Town Bus Terminus",
+                            "headway": 900,
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "S12",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 10
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.4 km",
+                            "value": 371
+                        },
+                        "duration": {
+                            "text": "5 mins",
+                            "value": 276
+                        },
+                        "end_location": {
+                            "lat": 22.5667194,
+                            "lng": 88.39296329999999
+                        },
+                        "html_instructions": "Walk to Beleghata, Kolkata, West Bengal, India",
+                        "polyline": {
+                            "points": "{}uhCwbozO}@S{Bc@k@IWGWKEGa@TC@A@C?C@C?y@?C?C?U@S?UAiAOy@cAML"
+                        },
+                        "start_location": {
+                            "lat": 22.5636566,
+                            "lng": 88.3922752
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 166
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 130
+                                },
+                                "end_location": {
+                                    "lat": 22.5650783,
+                                    "lng": 88.3927465
+                                },
+                                "html_instructions": "Head <b>north</b> on <b>Abinash Chandra Banerjee Ln</b><div style=\"font-size:0.9em\">Pass by Appayan (on the right in 23&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "{}uhCwbozO}@S{Bc@k@IWGWKEG"
+                                },
+                                "start_location": {
+                                    "lat": 22.5636566,
+                                    "lng": 88.3922752
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 147
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 105
+                                },
+                                "end_location": {
+                                    "lat": 22.5663573,
+                                    "lng": 88.3926925
+                                },
+                                "html_instructions": "Turn <b>left</b> at Spectrum Photography to stay on <b>Abinash Chandra Banerjee Ln</b><div style=\"font-size:0.9em\">Pass by Krishna Bhawan (on the left in 23&nbsp;m)</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "wfvhCueozOa@TC@A@C?C@C?y@?C?C?U@S?UAiAO"
+                                },
+                                "start_location": {
+                                    "lat": 22.5650783,
+                                    "lng": 88.3927465
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "47 m",
+                                    "value": 47
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 32
+                                },
+                                "end_location": {
+                                    "lat": 22.5666461,
+                                    "lng": 88.3930286
+                                },
+                                "html_instructions": "Slight <b>right</b> at Divine Nursing Home toward <b>CIT Rd Scheme 6M</b>/<b>CIT Road Scheme 4M</b>/<b>Hem Chandra Naskar Rd</b><div style=\"font-size:0.9em\">Pass by Divine Point School (on the left)</div>",
+                                "maneuver": "turn-slight-right",
+                                "polyline": {
+                                    "points": "wnvhCieozOy@cA"
+                                },
+                                "start_location": {
+                                    "lat": 22.5663573,
+                                    "lng": 88.3926925
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "11 m",
+                                    "value": 11
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 9
+                                },
+                                "end_location": {
+                                    "lat": 22.5667194,
+                                    "lng": 88.39296329999999
+                                },
+                                "html_instructions": "Turn <b>left</b> at Tirupati Apartment onto <b>CIT Rd Scheme 6M</b>/<b>CIT Road Scheme 4M</b>/<b>Hem Chandra Naskar Rd</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "qpvhCmgozOML"
+                                },
+                                "start_location": {
+                                    "lat": 22.5666461,
+                                    "lng": 88.3930286
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "{svhCi{jzONU\\ON?NDXT~@b@LVtA`@vA`@DKIEHDTq@~BoGx@kA^i@hAuAdAaAZ[BQ@_@G{@E_BEu@MYu@eAcD}Di@o@iBmBu@u@aA}@IYUqCYqDAo@HqAHu@Fo@Pg@Nw@^yENmCJs@t@uF^uCTiBZwCf@_Ez@wHJoA^wC\\mCTuBn@{EFa@EA?C}@SgDm@o@SEGa@TEBeA@q@@_BQy@cAML"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    }
+]

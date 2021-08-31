@@ -1,0 +1,1612 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 15.424696,
+                "lng": 77.51821950000001
+            },
+            "southwest": {
+                "lat": 13.0396444,
+                "lng": 73.95527810000002
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "6:42am",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554945120
+                },
+                "departure_time": {
+                    "text": "4:45pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554894919
+                },
+                "distance": {
+                    "text": "507 km",
+                    "value": 507326
+                },
+                "duration": {
+                    "text": "13 hours 57 mins",
+                    "value": 50201
+                },
+                "end_address": "Bengaluru, Karnataka, India",
+                "end_location": {
+                    "lat": 13.0396444,
+                    "lng": 77.51821950000001
+                },
+                "start_address": "Goa, India",
+                "start_location": {
+                    "lat": 15.2981256,
+                    "lng": 74.1222875
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "4.4 km",
+                            "value": 4422
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3319
+                        },
+                        "end_location": {
+                            "lat": 15.302481,
+                            "lng": 74.1365885
+                        },
+                        "html_instructions": "Walk to Bandoli Petrol Pump",
+                        "polyline": {
+                            "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ}@qAk@y@}@mA_@a@_@]GE"
+                        },
+                        "start_location": {
+                            "lat": 15.2981256,
+                            "lng": 74.1222875
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "1.7 km",
+                                    "value": 1741
+                                },
+                                "duration": {
+                                    "text": "22 mins",
+                                    "value": 1333
+                                },
+                                "end_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "html_instructions": "Head <b>northwest</b><div style=\"font-size:0.9em\">Pass by Volleyball Ground (on the left in 600&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG"
+                                },
+                                "start_location": {
+                                    "lat": 15.2981256,
+                                    "lng": 74.1222875
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "2.5 km",
+                                    "value": 2477
+                                },
+                                "duration": {
+                                    "text": "31 mins",
+                                    "value": 1853
+                                },
+                                "end_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Pass by The Party Shop (on the right in 1.5&nbsp;km)</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_im|AidkcM@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ"
+                                },
+                                "start_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 204
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 133
+                                },
+                                "end_location": {
+                                    "lat": 15.302481,
+                                    "lng": 74.1365885
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Hathkhamba-Goa Rd</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "_pk|AuoncM}@qAk@y@}@mA_@a@_@]GE"
+                                },
+                                "start_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "29.7 km",
+                            "value": 29690
+                        },
+                        "duration": {
+                            "text": "1 hour 19 mins",
+                            "value": 4740
+                        },
+                        "end_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "html_instructions": "Bus towards Ponda via Dharbandoda",
+                        "polyline": {
+                            "points": "swk|AqxncMugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@"
+                        },
+                        "start_location": {
+                            "lat": 15.3024969,
+                            "lng": 74.13656619999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.3024969,
+                                    "lng": 74.13656619999999
+                                },
+                                "name": "Bandoli Petrol Pump"
+                            },
+                            "departure_time": {
+                                "text": "5:41pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554898260
+                            },
+                            "headsign": "Ponda via Dharbandoda",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Curchorem - Savordem - Ponda via Dharbandoda",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 20
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "14.8 km",
+                            "value": 14774
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2160
+                        },
+                        "end_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "html_instructions": "Bus towards Margao via Anmod",
+                        "polyline": {
+                            "points": "}_`}A}qsbMhaIgb@``LthH"
+                        },
+                        "start_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:50pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554906000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "7:14pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903840
+                            },
+                            "headsign": "Margao via Anmod",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Margao - Belgavi via Anmod",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 2
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "458 km",
+                            "value": 458440
+                        },
+                        "duration": {
+                            "text": "10 hours 42 mins",
+                            "value": 38520
+                        },
+                        "end_location": {
+                            "lat": 13.0396444,
+                            "lng": 77.51821950000001
+                        },
+                        "html_instructions": "Bus towards Bangalore AC Sleeper",
+                        "polyline": {
+                            "points": "q|h|AokkbMnqjLwg~ShpJsrW"
+                        },
+                        "start_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 13.0396444,
+                                    "lng": 77.51821950000001
+                                },
+                                "name": "Jalahalli Cross"
+                            },
+                            "arrival_time": {
+                                "text": "6:42am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554945120
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "8:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554906600
+                            },
+                            "headsign": "Bangalore AC Sleeper",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Anand Travel",
+                                        "url": "https://www.redbus.in/travels/anand-travel?utm_source=Google_Maps&utm_medium=referral&utm_campaign=GTFS"
+                                    }
+                                ],
+                                "color": "#f20000",
+                                "name": "Redbus - Anand Travel",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 2
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "i|j|Ai_lcM}C~BsAr@k@l@i@Vg@?u@DQJIRCP@\\FtAGz@Mh@_@p@S`@a@Xq@^WTs@r@eBx@WRc@Js@DuAOg@FcAHMEGQGI[?[DCH@PCH_@PQdBIf@OXKP[VWHWB_A?w@Oe@Us@KaDCWBYD[?i@KyAc@aA]i@[eAg@s@Sc@AcEEcAGZaBb@uBLWTQj@[~@m@`@[LSD]?a@Aq@Fe@j@uBTu@Nq@Dm@A_@YcBCc@B]t@{Bd@yA`AiC\\o@b@UJAf@Fd@@f@E|Be@lCw@~Ac@~Ao@jAg@~@m@b@Uz@[rAiAr@eANSLGp@[RYHy@LqALY`@g@b@g@dA}@~Aq@^[^q@H[@W?SSmBc@sBOg@Ua@e@k@i@u@[w@Uo@SeAIuA?qBF]Pe@n@qAf@o@iBkC}@mA_@a@g@c@CBugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@haIgb@``LthHnqjLwg~ShpJsrW"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    },
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 15.424696,
+                "lng": 77.55178699999999
+            },
+            "southwest": {
+                "lat": 13.021649,
+                "lng": 73.95527810000002
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "6:57am",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554946020
+                },
+                "departure_time": {
+                    "text": "4:45pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554894919
+                },
+                "distance": {
+                    "text": "511 km",
+                    "value": 511319
+                },
+                "duration": {
+                    "text": "14 hours 12 mins",
+                    "value": 51101
+                },
+                "end_address": "Bengaluru, Karnataka, India",
+                "end_location": {
+                    "lat": 13.021649,
+                    "lng": 77.55178699999999
+                },
+                "start_address": "Goa, India",
+                "start_location": {
+                    "lat": 15.2981256,
+                    "lng": 74.1222875
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "4.4 km",
+                            "value": 4422
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3319
+                        },
+                        "end_location": {
+                            "lat": 15.302481,
+                            "lng": 74.1365885
+                        },
+                        "html_instructions": "Walk to Bandoli Petrol Pump",
+                        "polyline": {
+                            "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ}@qAk@y@}@mA_@a@_@]GE"
+                        },
+                        "start_location": {
+                            "lat": 15.2981256,
+                            "lng": 74.1222875
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "1.7 km",
+                                    "value": 1741
+                                },
+                                "duration": {
+                                    "text": "22 mins",
+                                    "value": 1333
+                                },
+                                "end_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "html_instructions": "Head <b>northwest</b><div style=\"font-size:0.9em\">Pass by Volleyball Ground (on the left in 600&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG"
+                                },
+                                "start_location": {
+                                    "lat": 15.2981256,
+                                    "lng": 74.1222875
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "2.5 km",
+                                    "value": 2477
+                                },
+                                "duration": {
+                                    "text": "31 mins",
+                                    "value": 1853
+                                },
+                                "end_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Pass by The Party Shop (on the right in 1.5&nbsp;km)</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_im|AidkcM@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ"
+                                },
+                                "start_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 204
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 133
+                                },
+                                "end_location": {
+                                    "lat": 15.302481,
+                                    "lng": 74.1365885
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Hathkhamba-Goa Rd</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "_pk|AuoncM}@qAk@y@}@mA_@a@_@]GE"
+                                },
+                                "start_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "29.7 km",
+                            "value": 29690
+                        },
+                        "duration": {
+                            "text": "1 hour 19 mins",
+                            "value": 4740
+                        },
+                        "end_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "html_instructions": "Bus towards Ponda via Dharbandoda",
+                        "polyline": {
+                            "points": "swk|AqxncMugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@"
+                        },
+                        "start_location": {
+                            "lat": 15.3024969,
+                            "lng": 74.13656619999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.3024969,
+                                    "lng": 74.13656619999999
+                                },
+                                "name": "Bandoli Petrol Pump"
+                            },
+                            "departure_time": {
+                                "text": "5:41pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554898260
+                            },
+                            "headsign": "Ponda via Dharbandoda",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Curchorem - Savordem - Ponda via Dharbandoda",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 20
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "14.8 km",
+                            "value": 14774
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2160
+                        },
+                        "end_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "html_instructions": "Bus towards Margao via Anmod",
+                        "polyline": {
+                            "points": "}_`}A}qsbMhaIgb@``LthH"
+                        },
+                        "start_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:50pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554906000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "7:14pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903840
+                            },
+                            "headsign": "Margao via Anmod",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Margao - Belgavi via Anmod",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 2
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "462 km",
+                            "value": 462433
+                        },
+                        "duration": {
+                            "text": "10 hours 42 mins",
+                            "value": 38520
+                        },
+                        "end_location": {
+                            "lat": 13.021649,
+                            "lng": 77.55178699999999
+                        },
+                        "html_instructions": "Bus towards Bangalore AC Sleeper",
+                        "polyline": {
+                            "points": "q|h|AokkbMfsyLem}T"
+                        },
+                        "start_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 13.021649,
+                                    "lng": 77.55178699999999
+                                },
+                                "name": "Yeshwanthpur"
+                            },
+                            "arrival_time": {
+                                "text": "6:57am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554946020
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "8:15pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554907500
+                            },
+                            "headsign": "Bangalore AC Sleeper",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Maa Travels",
+                                        "url": "https://www.redbus.in/travels/?utm_source=Google_Maps&utm_medium=referral&utm_campaign=GTFS"
+                                    }
+                                ],
+                                "color": "#f20000",
+                                "name": "Redbus - Anand Travels",
+                                "text_color": "#000000",
+                                "url": "https://www.redbus.in/?utm_source=Google_Maps&utm_medium=referral&utm_campaign=GTFS",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 1
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "i|j|Ai_lcM}C~BsAr@k@l@i@Vg@?u@DQJIRCP@\\FtAGz@Mh@_@p@S`@a@Xq@^WTs@r@eBx@WRc@Js@DuAOg@FcAHMEGQGI[?[DCH@PCH_@PQdBIf@OXKP[VWHWB_A?w@Oe@Us@KaDCWBYD[?i@KyAc@aA]i@[eAg@s@Sc@AcEEcAGZaBb@uBLWTQj@[~@m@`@[LSD]?a@Aq@Fe@j@uBTu@Nq@Dm@A_@YcBCc@B]t@{Bd@yA`AiC\\o@b@UJAf@Fd@@f@E|Be@lCw@~Ac@~Ao@jAg@~@m@b@Uz@[rAiAr@eANSLGp@[RYHy@LqALY`@g@b@g@dA}@~Aq@^[^q@H[@W?SSmBc@sBOg@Ua@e@k@i@u@[w@Uo@SeAIuA?qBF]Pe@n@qAf@o@iBkC}@mA_@a@g@c@CBugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@haIgb@``LthHfsyLem}T"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    },
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 15.424696,
+                "lng": 77.55178699999999
+            },
+            "southwest": {
+                "lat": 13.021649,
+                "lng": 73.95527810000002
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "7:07am",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554946620
+                },
+                "departure_time": {
+                    "text": "4:45pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554894919
+                },
+                "distance": {
+                    "text": "544 km",
+                    "value": 543725
+                },
+                "duration": {
+                    "text": "14 hours 22 mins",
+                    "value": 51701
+                },
+                "end_address": "Bengaluru, Karnataka, India",
+                "end_location": {
+                    "lat": 13.021649,
+                    "lng": 77.55178699999999
+                },
+                "start_address": "Goa, India",
+                "start_location": {
+                    "lat": 15.2981256,
+                    "lng": 74.1222875
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "4.4 km",
+                            "value": 4422
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3319
+                        },
+                        "end_location": {
+                            "lat": 15.302481,
+                            "lng": 74.1365885
+                        },
+                        "html_instructions": "Walk to Bandoli Petrol Pump",
+                        "polyline": {
+                            "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ}@qAk@y@}@mA_@a@_@]GE"
+                        },
+                        "start_location": {
+                            "lat": 15.2981256,
+                            "lng": 74.1222875
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "1.7 km",
+                                    "value": 1741
+                                },
+                                "duration": {
+                                    "text": "22 mins",
+                                    "value": 1333
+                                },
+                                "end_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "html_instructions": "Head <b>northwest</b><div style=\"font-size:0.9em\">Pass by Volleyball Ground (on the left in 600&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG"
+                                },
+                                "start_location": {
+                                    "lat": 15.2981256,
+                                    "lng": 74.1222875
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "2.5 km",
+                                    "value": 2477
+                                },
+                                "duration": {
+                                    "text": "31 mins",
+                                    "value": 1853
+                                },
+                                "end_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Pass by The Party Shop (on the right in 1.5&nbsp;km)</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_im|AidkcM@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ"
+                                },
+                                "start_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 204
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 133
+                                },
+                                "end_location": {
+                                    "lat": 15.302481,
+                                    "lng": 74.1365885
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Hathkhamba-Goa Rd</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "_pk|AuoncM}@qAk@y@}@mA_@a@_@]GE"
+                                },
+                                "start_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "29.7 km",
+                            "value": 29690
+                        },
+                        "duration": {
+                            "text": "1 hour 19 mins",
+                            "value": 4740
+                        },
+                        "end_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "html_instructions": "Bus towards Ponda via Dharbandoda",
+                        "polyline": {
+                            "points": "swk|AqxncMugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@"
+                        },
+                        "start_location": {
+                            "lat": 15.3024969,
+                            "lng": 74.13656619999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.3024969,
+                                    "lng": 74.13656619999999
+                                },
+                                "name": "Bandoli Petrol Pump"
+                            },
+                            "departure_time": {
+                                "text": "5:41pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554898260
+                            },
+                            "headsign": "Ponda via Dharbandoda",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Curchorem - Savordem - Ponda via Dharbandoda",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 20
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "14.8 km",
+                            "value": 14774
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2160
+                        },
+                        "end_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "html_instructions": "Bus towards Margao via Anmod",
+                        "polyline": {
+                            "points": "}_`}A}qsbMhaIgb@``LthH"
+                        },
+                        "start_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:50pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554906000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "7:14pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903840
+                            },
+                            "headsign": "Margao via Anmod",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Margao - Belgavi via Anmod",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 2
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "127 km",
+                            "value": 126848
+                        },
+                        "duration": {
+                            "text": "3 hours 12 mins",
+                            "value": 11520
+                        },
+                        "end_location": {
+                            "lat": 15.351434,
+                            "lng": 75.136247
+                        },
+                        "html_instructions": "Bus towards Hubli AC Seater",
+                        "polyline": {
+                            "points": "q|h|AokkbM{kKateF"
+                        },
+                        "start_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.351434,
+                                    "lng": 75.136247
+                                },
+                                "name": "Hubli"
+                            },
+                            "arrival_time": {
+                                "text": "12:27am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554922620
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "9:15pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554911100
+                            },
+                            "headsign": "Hubli AC Seater",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Sea Bird Tourist",
+                                        "url": "https://www.redbus.in/travels/seabird-tourist-seabird?utm_source=Google_Maps&utm_medium=referral&utm_campaign=GTFS"
+                                    }
+                                ],
+                                "color": "#f20000",
+                                "name": "Redbus - Sea Bird Tourist",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 1
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "368 km",
+                            "value": 367991
+                        },
+                        "duration": {
+                            "text": "5 hours 37 mins",
+                            "value": 20220
+                        },
+                        "end_location": {
+                            "lat": 13.021649,
+                            "lng": 77.55178699999999
+                        },
+                        "html_instructions": "Bus towards Bangalore AC Seater",
+                        "polyline": {
+                            "points": "miu|Aq`riMj`jKutdKv~z@mbqA"
+                        },
+                        "start_location": {
+                            "lat": 15.351434,
+                            "lng": 75.136247
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 13.021649,
+                                    "lng": 77.55178699999999
+                                },
+                                "name": "Yeshwanthpur"
+                            },
+                            "arrival_time": {
+                                "text": "7:07am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554946620
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.351434,
+                                    "lng": 75.136247
+                                },
+                                "name": "Hubli"
+                            },
+                            "departure_time": {
+                                "text": "1:30am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554926400
+                            },
+                            "headsign": "Bangalore AC Seater",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Sea Bird Tourist",
+                                        "url": "https://www.redbus.in/travels/seabird-tourist-seabird?utm_source=Google_Maps&utm_medium=referral&utm_campaign=GTFS"
+                                    }
+                                ],
+                                "color": "#f20000",
+                                "name": "Redbus - Sea Bird Tourist",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 2
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "i|j|Ai_lcM}C~BsAr@k@l@i@Vg@?u@DQJIRCP@\\FtAGz@Mh@_@p@S`@a@Xq@^WTs@r@eBx@WRc@Js@DuAOg@FcAHMEGQGI[?[DCH@PCH_@PQdBIf@OXKP[VWHWB_A?w@Oe@Us@KaDCWBYD[?i@KyAc@aA]i@[eAg@s@Sc@AcEEcAGZaBb@uBLWTQj@[~@m@`@[LSD]?a@Aq@Fe@j@uBTu@Nq@Dm@A_@YcBCc@B]t@{Bd@yA`AiC\\o@b@UJAf@Fd@@f@E|Be@lCw@~Ac@~Ao@jAg@~@m@b@Uz@[rAiAr@eANSLGp@[RYHy@LqALY`@g@b@g@dA}@~Aq@^[^q@H[@W?SSmBc@sBOg@Ua@e@k@i@u@[w@Uo@SeAIuA?qBF]Pe@n@qAf@o@iBkC}@mA_@a@g@c@CBugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@haIgb@``LthH{kKateFj`jKutdKv~z@mbqA"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    },
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 15.424696,
+                "lng": 77.39997799999999
+            },
+            "southwest": {
+                "lat": 13.0905286,
+                "lng": 73.95527810000002
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "7:40am",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554948630
+                },
+                "departure_time": {
+                    "text": "4:45pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554894919
+                },
+                "distance": {
+                    "text": "630 km",
+                    "value": 629838
+                },
+                "duration": {
+                    "text": "14 hours 55 mins",
+                    "value": 53711
+                },
+                "end_address": "Bengaluru, Karnataka, India",
+                "end_location": {
+                    "lat": 13.0978627,
+                    "lng": 77.39412279999999
+                },
+                "start_address": "Goa, India",
+                "start_location": {
+                    "lat": 15.2981256,
+                    "lng": 74.1222875
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "4.4 km",
+                            "value": 4422
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3319
+                        },
+                        "end_location": {
+                            "lat": 15.302481,
+                            "lng": 74.1365885
+                        },
+                        "html_instructions": "Walk to Bandoli Petrol Pump",
+                        "polyline": {
+                            "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ}@qAk@y@}@mA_@a@_@]GE"
+                        },
+                        "start_location": {
+                            "lat": 15.2981256,
+                            "lng": 74.1222875
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "1.7 km",
+                                    "value": 1741
+                                },
+                                "duration": {
+                                    "text": "22 mins",
+                                    "value": 1333
+                                },
+                                "end_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "html_instructions": "Head <b>northwest</b><div style=\"font-size:0.9em\">Pass by Volleyball Ground (on the left in 600&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "i|j|Ai_lcMw@j@eBrAsAr@k@l@i@Vg@?[@YBQJIRCP@\\Dn@@d@C`@CXGXENSZKTS`@a@X[PULIFML[\\WTKFQJw@\\OFWRc@JUD]?_AMUAO@WDs@HO?GAECCGCIAGEAGAS@WBC@C@?F?J@D?BCDWHGFAFAJE^Gp@If@OXKP[VWHWB[?c@?_@EWIOIUKWG[CaDCWBIBO@M?M?QAWIOEiA]aA]i@[_@Me@Y]MUEOAS?cEEcAG"
+                                },
+                                "start_location": {
+                                    "lat": 15.2981256,
+                                    "lng": 74.1222875
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "2.5 km",
+                                    "value": 2477
+                                },
+                                "duration": {
+                                    "text": "31 mins",
+                                    "value": 1853
+                                },
+                                "end_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Pass by The Party Shop (on the right in 1.5&nbsp;km)</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_im|AidkcM@CX}AZ{AFYJU@AFILG`@UHEFEZSTODCXSFGFGDKBM@O@MASA_@?Q@ODUBKPs@Po@BEDQFQ@ADOHWDYBU@W?QAMIk@Ow@CQ?Q@O@MV{@\\_AHUZcATm@Na@Pc@HUN_@LOJIVKDAD?H?\\Fd@@f@Ez@O`AU`@OjBg@~Ac@~Ao@fAc@BC^S^YPKPI`@MXM`@Yp@o@b@m@NWNSLGVMXMLODIBMDk@Hy@BWLY`@g@FGZ_@l@k@VQZObAa@ROJKJMRc@H[@W?G?KGu@Kw@Q{@Qw@EMIYIQKOUYOQOOYe@O]KYUo@SeAEc@Cq@?kA?e@@KDQPe@n@qAT]PQ"
+                                },
+                                "start_location": {
+                                    "lat": 15.3103982,
+                                    "lng": 74.1179713
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 204
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 133
+                                },
+                                "end_location": {
+                                    "lat": 15.302481,
+                                    "lng": 74.1365885
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Hathkhamba-Goa Rd</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "_pk|AuoncM}@qAk@y@}@mA_@a@_@]GE"
+                                },
+                                "start_location": {
+                                    "lat": 15.3012814,
+                                    "lng": 74.1351531
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "29.7 km",
+                            "value": 29690
+                        },
+                        "duration": {
+                            "text": "1 hour 19 mins",
+                            "value": 4740
+                        },
+                        "end_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "html_instructions": "Bus towards Ponda via Dharbandoda",
+                        "polyline": {
+                            "points": "swk|AqxncMugAeVi_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAmMjy@u@hM}Oda@mStj@zsAdwBbOncA|Efa@lM`i@}Ela@"
+                        },
+                        "start_location": {
+                            "lat": 15.3024969,
+                            "lng": 74.13656619999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.3024969,
+                                    "lng": 74.13656619999999
+                                },
+                                "name": "Bandoli Petrol Pump"
+                            },
+                            "departure_time": {
+                                "text": "5:41pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554898260
+                            },
+                            "headsign": "Ponda via Dharbandoda",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Curchorem - Savordem - Ponda via Dharbandoda",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 20
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "14.8 km",
+                            "value": 14774
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2160
+                        },
+                        "end_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "html_instructions": "Bus towards Margao via Anmod",
+                        "polyline": {
+                            "points": "}_`}A}qsbMhaIgb@``LthH"
+                        },
+                        "start_location": {
+                            "lat": 15.4062328,
+                            "lng": 73.99727109999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "arrival_time": {
+                                "text": "7:50pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554906000
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.4062328,
+                                    "lng": 73.99727109999999
+                                },
+                                "name": "Ponda KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "7:14pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554903840
+                            },
+                            "headsign": "Margao via Anmod",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Kadamba",
+                                        "phone": "011 91 832 243 8034",
+                                        "url": "http://ktclgoa.com/"
+                                    }
+                                ],
+                                "name": "Margao - Belgavi via Anmod",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 2
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "580 km",
+                            "value": 579540
+                        },
+                        "duration": {
+                            "text": "10 hours 42 mins",
+                            "value": 38520
+                        },
+                        "end_location": {
+                            "lat": 13.09062,
+                            "lng": 77.400019
+                        },
+                        "html_instructions": "Bus towards Bangalore Non AC Seater / Sleeper",
+                        "polyline": {
+                            "points": "q|h|AokkbMi@uApB{@ZVhB|AtRsGjNsTj\\tJb`@{AlKqErQ]v`@gVfYsOzp@sXlQ{FtaAgZjj@sAv`BgcA|gAst@laBwH|d@yCbT}T|_Aap@bj@{N`a@k_@rf@o^ro@kb@vl@_Wbo@_PlhClPlj@jH`kAgDzUyCdu@nSrx@pG~gAvVjp@gSndEkmAhJw_@jDoNzBml@oBggAhd@sfB`l@ckAfcC~Xdf@xtAkPxp@dBtr@`vFkIeLs_@feAg{@nWmVdf@gcAtDgJX}@?@?A?ArCiJ@?@?h@cBfCyG@@@?hVyMtcA}a@dnBqgAhz@au@nmAe^fq@{Cvb@{@nlCtWt`AfMpVnY|Wlf@vk@zClDsk@bRit@d^qu@nKkv@r`@g\\v\\a|@d@c}@hAehAbDy}@hGi}@hWirAhKqaAp`@yeAlj@{y@b]iQxRa_AvSwx@bl@mp@~\\an@lv@sf@vy@}Mr_Ais@vq@wi@vq@ad@b}@r[bw@cAd]gD_BdGBDGAoJ~XoShHkh@qPqf@c[{y@u@ql@jQ~Aoy@Fc_AcBr@?A?A@?J@XDVH?A?A@??A?@A?A?AA?AAAAAxA_IpEocAxJmf@nb@scEtGgd@fk@av@~_@{w@nVkqBiw@inAg^s{@ya@mqAaA{IahL{eMos@yw@m|@k|@qp@uzAub@g_AidAcx@sIg}@y_@{n@in@e[ev@{t@{p@icAat@uf@kp@u|@kn@_[}ZkDq]mEc[qUqIwDub@gAwR}@{uK}kEgt@eh@se@al@yZub@ePoOm^uTmt@eAg\\uGud@m{@}|J_dU{m@_r@ePyh@{I{Nsg@mx@}Siq@wJsr@im@yg@im@mHurAo`Ak`@gaAidAkw@ak@me@oc@}X{h@dFat@}{@q^{kAuu@yk@mg@ep@{j@iUa\\_EaVyVmYaSyWmIsDye@bV}h@lg@gk@zVwt@hFyu@Rgg@xAgv@f}@mi@|PaVlT{g@`f@is@pb@wYrOie@tSybAoAi}@|Ag{@vF_s@rc@skA|X{q@wq@a`@ci@cQct@mXoAwQbHkNbbAkLhyAcSfzA}Rd`AoBvtA~CjaBk[`pAcw@poBmg@fh@gf@dfAoXxbD{uDrWo]d`Ag}@~bAm_AftAco@vvC{iC`eAg\\`s@s_@hRiRnx@ey@hcA_eAlx@wy@jz@ww@jp@mQnw@oh@bd@s[hd@_yAzp@gbA`w@g|@rbAkV|rAod@v_Bog@hs@o|@lVm|AbA{jA`y@y{@xU_u@~[eWdi@ip@thAmfA|z@ep@tm@w~@tXs_Br_@odAhq@ysAvd@mf@ve@mf@`p@a}@jd@qg@vj@kp@dxA_}@bmAcy@d{@gp@v_@w_Avg@eq@dz@ch@xu@unAlb@wm@z_@_sA|AwK~xEabOlZqm@vj@}iAje@}aAdTka@zl@umAx_@om@|\\yU`r@t[xq@vNjuAwRjKqi@hKst@|Qiz@xh@w_Bb{@{cCjh@}{Axj@g`Bhj@ybBlc@{rAte@_xAlRos@z~DapQfZyhB`YoaBtKql@bS{j@jCkdAxc@kxAjPmiAfHm`@`QcnAlRgmBtJ}bB}J{kAyHqzAb]wo@x]_[hkAsd@ll@s]za@yf@@@`HkJ|j@wy@~n@ydAh{@yxA`j@cmAxi@cqAlc@_iAnVcp@x\\{z@tk@{zA`g@}pA|o@yoAtLssAlhAwk@nv@yxAhEqaB|RusAzuAgVni@mc@nv@sm@xq@o_Bp}@q~A`tA}fA~oAsdAb~Aos@b~@k_A~iBs{B|eBos@rlAacAhoAmu@lfB_x@pSiMl@m@fGaE``A_|@zeBwl@~}Bqu@dmBqg@j_Bw_AvzAifA~rAmbAznA}Khp@ocAbk@keBljA_pAhmAyfA|fAueAnm@kv@t}@i`A`fAcgAxfAifBp^ofB`Wgc@BY?@A?dZwk@jcAuzAdkAssAlwAyxAjp@c{Ajg@upA|{@ykBf]ixAvh@gcAd}Aiy@`oAo}@x|@gdA~tAwPpaBsH~{B_e@|{Agw@rhAo_@vzAas@`qAuz@vQuJhs@qc@fiAcs@ppAop@x}A_t@nuAed@zeAob@xnAqQ|{@{U`qDymCzpAez@x^eZ?BnAs@`v@qp@naBcw@~rAqfAxsAkhAhwAal@bmBqk@jv@ckA|v@e~@||Ay_@x{Ag_@tjAwk@ht@kx@vi@qp@zDmHjYgi@BEd@{@tCsCr[{k@j_@}u@x}@gu@x_Ae}@vm@yu@n}@aaAbo@mcA`o@mz@bn@sUzgAmz@`m@{n@dvAiuAp}@e_Abr@c}@pm@ksApz@kuAdz@stArf@_t@rl@mw@|jCegC~LaLhMsLzk@yWnjAckAtO{k@Nc@PF"
+                        },
+                        "start_location": {
+                            "lat": 15.2879346,
+                            "lng": 73.95527810000002
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 13.09062,
+                                    "lng": 77.400019
+                                },
+                                "name": "Nelamangala Toll"
+                            },
+                            "arrival_time": {
+                                "text": "7:12am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554946920
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 15.2879346,
+                                    "lng": 73.95527810000002
+                                },
+                                "name": "KTC Bus Stand"
+                            },
+                            "departure_time": {
+                                "text": "8:30pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554908400
+                            },
+                            "headsign": "Bangalore Non AC Seater / Sleeper",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Srs Travels",
+                                        "url": "https://www.redbus.in/travels/srs-travels-srs?utm_source=Google_Maps&utm_medium=referral&utm_campaign=GTFS"
+                                    }
+                                ],
+                                "color": "#f20000",
+                                "name": "Redbus - Srs Travels",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 3
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.6 km",
+                            "value": 637
+                        },
+                        "duration": {
+                            "text": "8 mins",
+                            "value": 493
+                        },
+                        "end_location": {
+                            "lat": 13.0921681,
+                            "lng": 77.3947555
+                        },
+                        "html_instructions": "Walk to Sondekoppa Circle Nelamangala",
+                        "polyline": {
+                            "points": "yv{nA{dlwMENs@rByAhEOl@kAjEABiAnEOh@GVQp@CHc@bBENNAZB^B"
+                        },
+                        "start_location": {
+                            "lat": 13.0905286,
+                            "lng": 77.39997799999999
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.6 km",
+                                    "value": 599
+                                },
+                                "duration": {
+                                    "text": "7 mins",
+                                    "value": 445
+                                },
+                                "end_location": {
+                                    "lat": 13.0924742,
+                                    "lng": 77.3947956
+                                },
+                                "html_instructions": "Head <b>northwest</b><div style=\"font-size:0.9em\">Pass by Bharath Roofings (on the left in 190&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "yv{nA{dlwMENs@rByAhEOl@kAjEABiAnEOh@GVQp@CHc@bBENNA"
+                                },
+                                "start_location": {
+                                    "lat": 13.0905286,
+                                    "lng": 77.39997799999999
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "38 m",
+                                    "value": 38
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 48
+                                },
+                                "end_location": {
+                                    "lat": 13.0921681,
+                                    "lng": 77.3947555
+                                },
+                                "html_instructions": "Turn <b>left</b> at Sri Veerabhadraswamy Thatte Idli Hotel onto <b>Nelamangala Rd</b>/<b>Sondekoppa Main Rd</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "}b|nAodkwMZB^B"
+                                },
+                                "start_location": {
+                                    "lat": 13.0924742,
+                                    "lng": 77.3947956
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.8 km",
+                            "value": 775
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 133
+                        },
+                        "end_location": {
+                            "lat": 13.0978627,
+                            "lng": 77.39412279999999
+                        },
+                        "html_instructions": "Bus towards Nelamangala Bus Station",
+                        "polyline": {
+                            "points": "aa|nAgdkwM@EcAIM@ODa@JSDwA?y@GkEOyCDmDFmBNw@Nq@Es@Qq@Q]IG?EHEV?VFJNLPHNDH@Il@"
+                        },
+                        "start_location": {
+                            "lat": 13.0921675,
+                            "lng": 77.39476429999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 13.0978627,
+                                    "lng": 77.39412279999999
+                                },
+                                "name": "Nelamangala Bus Station"
+                            },
+                            "arrival_time": {
+                                "text": "7:40am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554948630
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 13.0921675,
+                                    "lng": 77.39476429999999
+                                },
+                                "name": "Sondekoppa Circle Nelamangala"
+                            },
+                            "departure_time": {
+                                "text": "7:38am",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554948497
+                            },
+                            "headsign": "Nelamangala Bus Station",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "BMTC",
+                                        "phone": "011 91 1800 425 1663",
+                                        "url": "https://www.mybmtc.com/"
+                                    }
+                                ],
+                                "short_name": "374-N",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 1
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "i|j|Ai_lcMke@f]a]yAn@wS|i@in@V_]wkAyh@i_A~jCodAwFkaCs[{ShzBceEaoBcq@j|BnD|l@aXiLqdBb~AzOxjAcOtgAkd@zlA~cBt{DjThkA}Ela@haIgb@``LthHfAqCff@qYp|Ah@h_CkhA`mB{\\tiD{xBjgCqM`uA_fAldDcrBz|A_h@zsDxY|aBaIxnB`\\~gAvVjp@gSndEkmAhJw_@fH}{@x`@{nD`l@ckAfcC~Xdf@xtAkPxp@dBtr@`vFkIeLs_@feAg{@t~@uzAnEeLrCkJx`Bs|@niDs}Bv_Cac@fpDxUfxAvg@|Wlf@vk@zCpW}`Btj@}lBj~@iyA|OmcGrc@{tC~kAu`CxrBq|DltAuuAjzBgbAndBynAfuBnY`Z`B__@hb@}oAul@mgBtOfBsyBaBn@|@NCEfHsmAhn@akF|s@i{Anw@gjDqvA}jC{c@i|Aq|Mu~N_nBaxC_hBkxBmj@cmBoeBaqAufEudEe`Bcg@mv@eCckMcuFarB}uBuqA{IsbLm`WqrBceDu_@}dBs{Agq@urAo`Ak`@gaAkpBy}AkmAwQssAyhCc~A_}A}gAi[op@{j@m]gp@p~@euAd^qkBlBo~AdoAo`AtoBg}Cz[kqFp}@o~B{{Aer@sv@ek@fkAw[ptDag@|uCn@lrDosAxxCunAdfAoXxbD{uDxxAw{AfxCqoBvvC{iC`eAg\\jfA}r@x|Be_CxsBorBzhB}z@liAsuB|hBo_CpvC{{@v_Bog@hs@o|@pXihDzoAyqBxkEcaEjgAk_D|qAiyC|aDotDfnGwyEnhA}qB~pBywBhcAwaC|{EynOvaCy}EtmAe|B|\\yU`r@t[dhC_CtWe_BfaD{|JfaD}pJrgG{pYx_@mxAdh@w}Cb_AghHGyoDyHqzAb]wo@bjBs`AhoAmeA`dB{jCruDacI`iCyyGr}@mdDlhAwk@nv@yxAfYgvDj`Cuz@hiBcnCrrCofDboDcyBbiD_|DhkJ_gFh~AyqAzdFicBpmEihBvnDwiCznA}Khp@ocAbk@keBljA_pAfuComC`{FcgHvv@okCtjDa|ExhC}tDhdBo}D~fAq|CfmDywBx|@gdA~tAwPp~Esn@jsIogEzaF{tChtDeyAtuCau@~mFudDtpBkuA`{CejBxgD}oCleEsxAhnBijCvyDa`A~_CceBro@_z@j_@}o@~{@ybBr~BmsBllEwwF~vBaqAfdCeeCtpBi}BbiBwiDxaBsiCpxDs_EtsCs~BhQol@kIdYBlEga@Fi@vB"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    }
+]

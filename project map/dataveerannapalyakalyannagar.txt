@@ -1,0 +1,346 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 13.0422784,
+                "lng": 77.6409717
+            },
+            "southwest": {
+                "lat": 13.0255459,
+                "lng": 77.6124337
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "fare": {
+            "currency": "INR",
+            "text": "₹20.00",
+            "value": 20
+        },
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "4:01pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554978676
+                },
+                "departure_time": {
+                    "text": "3:39pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554977356
+                },
+                "distance": {
+                    "text": "4.5 km",
+                    "value": 4462
+                },
+                "duration": {
+                    "text": "22 mins",
+                    "value": 1320
+                },
+                "end_address": "Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+                "end_location": {
+                    "lat": 13.0280105,
+                    "lng": 77.6399397
+                },
+                "start_address": "Veerannapalya, Nagavara, Bengaluru, Karnataka 560045, India",
+                "start_location": {
+                    "lat": 13.0411032,
+                    "lng": 77.6124337
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "0.3 km",
+                            "value": 266
+                        },
+                        "duration": {
+                            "text": "4 mins",
+                            "value": 211
+                        },
+                        "end_location": {
+                            "lat": 13.0422377,
+                            "lng": 77.6137032
+                        },
+                        "html_instructions": "Walk to Veeranapalya",
+                        "polyline": {
+                            "points": "{arnAutuxM?I@M?M@Q?M@U?M@]?CBqA?OoB?w@@IIKEWAO?I?"
+                        },
+                        "start_location": {
+                            "lat": 13.0411032,
+                            "lng": 77.6124337
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 125
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 96
+                                },
+                                "end_location": {
+                                    "lat": 13.0410441,
+                                    "lng": 77.6136162
+                                },
+                                "html_instructions": "Head <b>east</b> toward <b>Veerannapalya Main Rd</b>",
+                                "polyline": {
+                                    "points": "{arnAutuxM?I@M?M@Q?M@U?M@]?CBqA?O"
+                                },
+                                "start_location": {
+                                    "lat": 13.0411032,
+                                    "lng": 77.6124337
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 99
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 68
+                                },
+                                "end_location": {
+                                    "lat": 13.0418822,
+                                    "lng": 77.6136112
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Veerannapalya Main Rd</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "oarnAc|uxMoB?w@@"
+                                },
+                                "start_location": {
+                                    "lat": 13.0410441,
+                                    "lng": 77.6136162
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "12 m",
+                                    "value": 12
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 8
+                                },
+                                "end_location": {
+                                    "lat": 13.0419931,
+                                    "lng": 77.61369479999999
+                                },
+                                "html_instructions": "Turn <b>right</b> after State Bank of India (on the left)",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "wfrnAa|uxMIIKE"
+                                },
+                                "start_location": {
+                                    "lat": 13.0418822,
+                                    "lng": 77.6136112
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "30 m",
+                                    "value": 30
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 39
+                                },
+                                "end_location": {
+                                    "lat": 13.0422377,
+                                    "lng": 77.6137032
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Kempapura Main Rd</b>/<b>Kempegowda Main Rd</b>/<b>Veerannapalya Main Rd</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "mgrnAq|uxMWAO?I?"
+                                },
+                                "start_location": {
+                                    "lat": 13.0419931,
+                                    "lng": 77.61369479999999
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "3.8 km",
+                            "value": 3833
+                        },
+                        "duration": {
+                            "text": "13 mins",
+                            "value": 789
+                        },
+                        "end_location": {
+                            "lat": 13.0255459,
+                            "lng": 77.64069599999999
+                        },
+                        "html_instructions": "Bus towards Banashankari TTMC",
+                        "polyline": {
+                            "points": "_irnAm|uxMGC@ABIBI@EFMDKFOLSNY\\y@x@}C\\{ATgAVqALo@DYBS@U@I?I?a@GoBEcD?}@IwCCsDA}@G}EG[Q_AEa@?YB_@FYFUNe@LW\\e@NSHGRQbAw@TOPMJGPKn@c@d@]lAy@hAu@|@k@^Ub@GJMROTYTc@HQfAkBR[HKHKRUTUPQb@]~BiAtCsA`@OpD}A|D}AdDmAbBq@~FaCfAc@hCeA\\ONETQbDkAJCRKHEFEJKDINQHWPk@L_@?AFQRe@FQRq@Tu@DM`@yAXiAXkAR_AV_BN}@FUTaBNeAHy@b@sD?Ad@eELcADUPeANk@j@cB@EB@"
+                        },
+                        "start_location": {
+                            "lat": 13.042239,
+                            "lng": 77.61366939999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 13.0255459,
+                                    "lng": 77.64069599999999
+                                },
+                                "name": "80ft Road Kalyananagara"
+                            },
+                            "arrival_time": {
+                                "text": "3:56pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554978382
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 13.042239,
+                                    "lng": 77.61366939999999
+                                },
+                                "name": "Veeranapalya"
+                            },
+                            "departure_time": {
+                                "text": "3:43pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554977593
+                            },
+                            "headsign": "Banashankari TTMC",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "BMTC",
+                                        "phone": "011 91 1800 425 1663",
+                                        "url": "https://www.mybmtc.com/"
+                                    }
+                                ],
+                                "short_name": "V-500A",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 7
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.4 km",
+                            "value": 363
+                        },
+                        "duration": {
+                            "text": "5 mins",
+                            "value": 294
+                        },
+                        "end_location": {
+                            "lat": 13.0280105,
+                            "lng": 77.6399397
+                        },
+                        "html_instructions": "Walk to Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+                        "polyline": {
+                            "points": "y`onAoe{xM[KMCcBKaEKeAEMCAHKd@LBALMCCREVALAJG^ALCNCNSC"
+                        },
+                        "start_location": {
+                            "lat": 13.0255703,
+                            "lng": 77.6407169
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 232
+                                },
+                                "duration": {
+                                    "text": "3 mins",
+                                    "value": 178
+                                },
+                                "end_location": {
+                                    "lat": 13.0276815,
+                                    "lng": 77.6409244
+                                },
+                                "html_instructions": "Head <b>northeast</b> toward <b>Service Rd</b><div style=\"font-size:0.9em\">Pass by Fragrant Kitchen (on the right in 200&nbsp;m)</div>",
+                                "polyline": {
+                                    "points": "y`onAoe{xM[KMCcBKaEKeAEMCAH"
+                                },
+                                "start_location": {
+                                    "lat": 13.0255703,
+                                    "lng": 77.6407169
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 115
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 105
+                                },
+                                "end_location": {
+                                    "lat": 13.0279063,
+                                    "lng": 77.6399194
+                                },
+                                "html_instructions": "Turn <b>left</b> at Matru Sagar onto <b>Chelekere Main Rd</b><div style=\"font-size:0.9em\">Pass by A.B.R. Enterprises (on the right)</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "_nonAwf{xMKd@LBALMCCREVALAJG^ALCNCN"
+                                },
+                                "start_location": {
+                                    "lat": 13.0276815,
+                                    "lng": 77.6409244
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "16 m",
+                                    "value": 16
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 11
+                                },
+                                "end_location": {
+                                    "lat": 13.0280105,
+                                    "lng": 77.6399397
+                                },
+                                "html_instructions": "Turn <b>right</b> at L J Iyengars Bakery<div style=\"font-size:0.9em\">Restricted usage road</div><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "moonAo`{xMSC"
+                                },
+                                "start_location": {
+                                    "lat": 13.0279063,
+                                    "lng": 77.6399194
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "{arnAutuxMFgCBuA?OoB?w@@IIKEWAY??DGCDKDOb@}@l@sAvAyF`AcFF}@MsJIwCCsDI{GY{AE{@Jy@V{@j@}@X[~BgBrBuAtFqDb@GJMh@i@^u@zAgC|@cAt@o@tG}CrEmBbJkDtP}Gl@UTQbDkA^OPKPUNQHW^kAFSZw@h@gBzA}FbAsFn@aFvA_MV{Az@oC@EB@_@OqBOgGQMCAHKd@LBALMCIj@MfAG^SC"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    }
+]

@@ -1,0 +1,219 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.6642497,
+                "lng": 88.4276378
+            },
+            "southwest": {
+                "lat": 22.5671113,
+                "lng": 88.3705938
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "3:34pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554890699
+                },
+                "departure_time": {
+                    "text": "3:10pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554889200
+                },
+                "distance": {
+                    "text": "13.4 km",
+                    "value": 13411
+                },
+                "duration": {
+                    "text": "25 mins",
+                    "value": 1499
+                },
+                "end_address": "Birati, Kolkata, West Bengal, India",
+                "end_location": {
+                    "lat": 22.6636226,
+                    "lng": 88.4272877
+                },
+                "start_address": "Sealdah, Sealdah, Raja Bazar, Kolkata, West Bengal 700014, India",
+                "start_location": {
+                    "lat": 22.5671113,
+                    "lng": 88.3705938
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "1 m",
+                            "value": 0
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 0
+                        },
+                        "end_location": {
+                            "lat": 22.5671113,
+                            "lng": 88.3705938
+                        },
+                        "html_instructions": "Walk to Sealdah",
+                        "polyline": {
+                            "points": "msvhCe{jzO"
+                        },
+                        "start_location": {
+                            "lat": 22.5671113,
+                            "lng": 88.3705938
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "1 m",
+                                    "value": 0
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 0
+                                },
+                                "end_location": {
+                                    "lat": 22.5671113,
+                                    "lng": 88.3705938
+                                },
+                                "polyline": {
+                                    "points": "msvhCe{jzO"
+                                },
+                                "start_location": {
+                                    "lat": 22.5671113,
+                                    "lng": 88.3705938
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "13.3 km",
+                            "value": 13330
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1440
+                        },
+                        "end_location": {
+                            "lat": 22.6641856,
+                            "lng": 88.42744929999999
+                        },
+                        "html_instructions": "Train towards Bangaon Junction",
+                        "polyline": {
+                            "points": "yvvhCc|jzOqCwKaBsEsAyDUe@Yo@Ug@Sk@Sm@_@kBQ_AEMGUI[K[Qi@Sg@Sg@q@iBWo@CIS_@{@mBa@w@iAqBkAgBIO}@mAm@u@q@{@u@y@iAkAs@s@IIIGoBaBiCqBuDiCoCaBmBkAgCkAQESI}@e@qDgBWM_CeAMEc@QOGSK_A_@aBo@CAsBu@{By@iBm@qAa@e@OaBc@UIWGcAYQGsA[MEcE_AgAS}Be@uF_AKCE?oHiA_Da@sEo@WEK?QE_IgAeH{@o@Ko@KgBWeAOeAMa@Ei@KeC[sIiAyCc@YCUCqCa@mDc@eIy@oG_@eBGyHOC?]A_@?wF?uDAaABkAFcCHuDJaDJiDHsL\\wJZgABwELa@@_@B}FPqADA?oCHmCH_@@i@IA?g@Be@GC?q@Bc@GcCGG?y@Eq@Io@Ig@Ok@Ou@]k@[e@Yk@c@k@e@k@g@q@q@e@k@m@u@_@m@[g@a@}@Wm@Ys@[cASy@YsAQmAMoAOyAOiBQgBKmAc@qEUeCc@aF[mDYaDUqBIoASwBOsAY_BU{@_@mA_@aAaAiBgAcBg@q@}@_Ag@g@u@m@q@e@yAu@iAg@}@Y{@WcBg@}CeAkBu@sAk@SIeBs@_Bq@mBaA}@k@w@c@q@[kDwAWK_@Mi@Ws@YGCAACCAC?C?CoAk@{F{BOGmGoCuF}B}NcGgH{CoEiBCA_EsBWMUOqEeCc@WuGaDiCqAoHwDuGeDeOwH_GgCgBu@i@Ui@e@ECuCwAAA{A{@KGMGDM"
+                        },
+                        "start_location": {
+                            "lat": 22.5676461,
+                            "lng": 88.3707442
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.6641856,
+                                    "lng": 88.42744929999999
+                                },
+                                "name": "Birati"
+                            },
+                            "arrival_time": {
+                                "text": "3:34pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554890640
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.5676461,
+                                    "lng": 88.3707442
+                                },
+                                "name": "Sealdah"
+                            },
+                            "departure_time": {
+                                "text": "3:10pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554889200
+                            },
+                            "headsign": "Bangaon Junction",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Indian Railways",
+                                        "url": "http://www.indianrail.gov.in/"
+                                    }
+                                ],
+                                "name": "33837 - Sealdah - Bangaon Local",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                                    "name": "Train",
+                                    "type": "HEAVY_RAIL"
+                                }
+                            },
+                            "num_stops": 5
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "81 m",
+                            "value": 81
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 58
+                        },
+                        "end_location": {
+                            "lat": 22.6636226,
+                            "lng": 88.4272877
+                        },
+                        "html_instructions": "Walk to Birati, Kolkata, West Bengal, India",
+                        "polyline": {
+                            "points": "qriiCw_vzOl@\\hAj@@?BC"
+                        },
+                        "start_location": {
+                            "lat": 22.6642497,
+                            "lng": 88.4276378
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "81 m",
+                                    "value": 81
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 58
+                                },
+                                "end_location": {
+                                    "lat": 22.6636226,
+                                    "lng": 88.4272877
+                                },
+                                "html_instructions": "Head <b>southwest</b> on <b>Birati Station Rd</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                                "polyline": {
+                                    "points": "qriiCw_vzOl@\\hAj@@?BC"
+                                },
+                                "start_location": {
+                                    "lat": 22.6642497,
+                                    "lng": 88.4276378
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "msvhCe{jzOkB]qCwKuDmKo@uAi@sASm@_@kBWmAo@wBqBiFuBoEiAqBkAgBgA}A_BqB_CeC}@}@yBiB_I{F}FmDgCkAQEqAo@iEuBmCkAgCeAuIaD{DoAgCs@cCs@mJuBeKiBoMkBkFu@cSiCmG_AwG{@}OuB_IeAeIy@oG_@_LWa@AwG?wF@oEPwIV}_@fAyFN}GTqJX_@@i@Ii@Be@Gu@Bc@GkCGkBOo@Ig@OaBm@qAu@wAiA}AyAsAaB{@uAy@kBu@wBm@mC_@}C}@yJyBgVo@sG]gEOsAY_Bu@iC_@aAaAiBgAcBg@q@eBgBgBsAcD}AyBq@cBg@}CeA_EaByB}@_Bq@mBaAuBoA}EsBuCkAOM?GkIgD}GwCsVaKwNeGcEuB_GcDyHyDyLiG{W}MgJ}Di@Ui@e@{C{AwBmADMKe@vBhADC"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    }
+]

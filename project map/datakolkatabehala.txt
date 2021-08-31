@@ -1,0 +1,346 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.5690607,
+                "lng": 88.349566
+            },
+            "southwest": {
+                "lat": 22.4951292,
+                "lng": 88.3107148
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "fare": {
+            "currency": "INR",
+            "text": "₹9.00",
+            "value": 9
+        },
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "10:50pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1555176039
+                },
+                "departure_time": {
+                    "text": "9:36pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1555171561
+                },
+                "distance": {
+                    "text": "10.8 km",
+                    "value": 10840
+                },
+                "duration": {
+                    "text": "1 hour 15 mins",
+                    "value": 4478
+                },
+                "end_address": "Behala, Kolkata, West Bengal, India",
+                "end_location": {
+                    "lat": 22.498136,
+                    "lng": 88.3107907
+                },
+                "start_address": "Kolkata, West Bengal, India",
+                "start_location": {
+                    "lat": 22.56904,
+                    "lng": 88.349566
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "9.9 km",
+                            "value": 9936
+                        },
+                        "duration": {
+                            "text": "33 mins",
+                            "value": 1983
+                        },
+                        "end_location": {
+                            "lat": 22.495218,
+                            "lng": 88.316701
+                        },
+                        "html_instructions": "Bus towards Thakurpukur 3A Bus Stand",
+                        "polyline": {
+                            "points": "o_whCywfzOCLv@R`Cp@PFlB`@RF^HdAVnBf@NDxBf@vCr@fATNDhAp@@B@DBZ@?@?@?B@@?@@@?@@RQBA@?pARLBDE@AB?FAh@Gb@CZC\\AzCs@`@M`@KNGNE\\KBA`@MDA`@M`@MVIXKAE?E@E@EBA?A@?@A@?@A@?@?@?@?@?@?@??@@?@??@@??@@?@@?@@??@?@@@?@?@?@?B?@?@?@A@?@jAx@hD|Bp@d@|R`NTNPLLTFLJRVHNDZJ\\HD@f@Nr@RfCt@b@Lb@LzAf@PJTL`@L`@JFBVHB@nJjDtLlE\\L^N\\N@@`@NZL^HB?J@L@T?d@AF?bFBtBBdHJ~CJb@Bb@H`@Hb@NRJTJ`@ZLLv@t@BDZb@d@f@`@DJb@FTF^Lp@^dCL`ABJFj@BXDl@Dx@?TAN?BAPCTEPIXK\\O^a@jAGN{@rB~CbBFDZLXL|@VbAZTDTDP@\\BlDDV?t@BbFLR@jBFF@F?D@JDf@^l@b@NJHHLLFJNZL\\JXLZFLJLJJHFLDRDTBVBdBFZ@xFHhEPv@Dh@@X@rBNlFb@R@r@DF@XF`@@d@B`BNvEj@dAZPFb@L^BdDZxARlALVB`@Dx@HdBF?A@??A?A@??A@A@??A@?@??A@?@?@??@@?@?@??@@??@@??@?@@??@?@?@?@?@?@?@A?FNBHBF?D@HAJK`AGh@AHAL?L@J@PPfAPp@@P@N?@?PId@Gf@WfBIh@_@dCEb@?h@DZDP@?JLh@f@h@f@@F@F@H?RA\\Gd@Ed@LB`@FvF|@tDj@JBJ@VFXDD@hBV~@N`APn@H`BXb@HRBTBvBT|@NZHXFxAXTCXDzDp@n@LzBd@hCf@t@XJDh@N@?dAV^H~@TzBd@f@LNDJBFDLJ\\HZFJBl@Pz@TdBd@bBh@d@NpAb@j@NhAX`@Ll@PxBp@zCv@hAXPHj@Lh@T^LTHZL|Bt@n@RbAZl@Nh@NXFbATxAXjATf@Hz@Ll@Hp@Fb@D`@Bx@LzBXrBLxBPL@^Dh@FH@fANfB\\rATp@Jr@L?E"
+                        },
+                        "start_location": {
+                            "lat": 22.56904,
+                            "lng": 88.349566
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.495218,
+                                    "lng": 88.316701
+                                },
+                                "name": "Manton"
+                            },
+                            "arrival_time": {
+                                "text": "10:39pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1555175344
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.56904,
+                                    "lng": 88.349566
+                                },
+                                "name": "Great Eastern"
+                            },
+                            "departure_time": {
+                                "text": "10:06pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1555173361
+                            },
+                            "headsign": "Thakurpukur 3A Bus Stand",
+                            "headway": 1800,
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "S119",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 23
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.9 km",
+                            "value": 904
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 695
+                        },
+                        "end_location": {
+                            "lat": 22.498136,
+                            "lng": 88.3107907
+                        },
+                        "html_instructions": "Walk to Behala, Kolkata, West Bengal, India",
+                        "polyline": {
+                            "points": "crhhCej`zOPBEXy@M?J?J?H?J?LKHEBG@G@C@A@C@C?A@C@ABCBC`@G^ABE@A@GBK@E?E@IFEFEDADCDAHAD?H@J@D@DFNHPBZ?n@Cf@?R?N@JHB@D@D?F?HA^Gr@Ed@EXCNIf@Ab@ABAb@MjBAHCZKh@GXCHCh@Kt@q@QSt@CPGHEDEDWCg@GI?C?C@GBEFCBGCGAIAKCKACJo@AEAECGAMC"
+                        },
+                        "start_location": {
+                            "lat": 22.4952244,
+                            "lng": 88.31667209999999
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "11 m",
+                                    "value": 11
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 8
+                                },
+                                "end_location": {
+                                    "lat": 22.4951292,
+                                    "lng": 88.3166475
+                                },
+                                "html_instructions": "Head <b>south</b> on <b>Diamond Harbour Rd</b> toward <b>Bhupen Roy Rd</b>",
+                                "polyline": {
+                                    "points": "crhhCej`zOPB"
+                                },
+                                "start_location": {
+                                    "lat": 22.4952244,
+                                    "lng": 88.31667209999999
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "47 m",
+                                    "value": 47
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 44
+                                },
+                                "end_location": {
+                                    "lat": 22.4954484,
+                                    "lng": 88.31658580000001
+                                },
+                                "html_instructions": "Cross the road<div style=\"font-size:0.9em\">Pass by Hot Flavours (Behala) (on the left)</div>",
+                                "polyline": {
+                                    "points": "qqhhCaj`zOEXy@M"
+                                },
+                                "start_location": {
+                                    "lat": 22.4951292,
+                                    "lng": 88.3166475
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 284
+                                },
+                                "duration": {
+                                    "text": "4 mins",
+                                    "value": 220
+                                },
+                                "end_location": {
+                                    "lat": 22.4960523,
+                                    "lng": 88.31428869999999
+                                },
+                                "html_instructions": "Turn <b>left</b> at Shriram Jewellers onto <b>Siddhinath Chatterjee Rd</b><div style=\"font-size:0.9em\">Pass by Health Point (on the left)</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "qshhCui`zO?J?J?H?J?LKHEBG@G@C@A@C@C?A@C@ABCBC`@G^ABE@A@GBK@E?E@IFEFEDADCDAHAD?H@J@D@DFNHPBZ?n@Cf@?R?N@J"
+                                },
+                                "start_location": {
+                                    "lat": 22.4954484,
+                                    "lng": 88.31658580000001
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 336
+                                },
+                                "duration": {
+                                    "text": "4 mins",
+                                    "value": 259
+                                },
+                                "end_location": {
+                                    "lat": 22.4964904,
+                                    "lng": 88.3111212
+                                },
+                                "html_instructions": "Turn <b>left</b> at the pharmacy onto <b>Becharam Chatterjee Rd</b><div style=\"font-size:0.9em\">Pass by V4GROOMERS (on the left)</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "iwhhCi{_zOHB@D@D?F?HA^Gr@Ed@EXCNIf@Ab@ABAb@MjBAHCZKh@GXCHCh@Kt@"
+                                },
+                                "start_location": {
+                                    "lat": 22.4960523,
+                                    "lng": 88.31428869999999
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "29 m",
+                                    "value": 29
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 21
+                                },
+                                "end_location": {
+                                    "lat": 22.4967386,
+                                    "lng": 88.3112112
+                                },
+                                "html_instructions": "Turn <b>right</b> at Mutton-Chicken Shop onto <b>Ramkrishna Sarani</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "azhhCog_zOq@Q"
+                                },
+                                "start_location": {
+                                    "lat": 22.4964904,
+                                    "lng": 88.3111212
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 114
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 83
+                                },
+                                "end_location": {
+                                    "lat": 22.4974585,
+                                    "lng": 88.3107148
+                                },
+                                "html_instructions": "Turn <b>left</b> at General Store onto <b>Dhali Para Rd</b><div style=\"font-size:0.9em\">Pass by Cuspids (on the right in 67&nbsp;m)</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "s{hhCah_zOSt@CPGHEDEDWCg@GI?C?C@GBEFCB"
+                                },
+                                "start_location": {
+                                    "lat": 22.4967386,
+                                    "lng": 88.3112112
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "5 m",
+                                    "value": 5
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 4
+                                },
+                                "end_location": {
+                                    "lat": 22.4974968,
+                                    "lng": 88.3107287
+                                },
+                                "html_instructions": "Turn <b>right</b> at Banerjee Bari, Behala",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "c`ihC}d_zOGC"
+                                },
+                                "start_location": {
+                                    "lat": 22.4974585,
+                                    "lng": 88.3107148
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "78 m",
+                                    "value": 78
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 56
+                                },
+                                "end_location": {
+                                    "lat": 22.498136,
+                                    "lng": 88.3107907
+                                },
+                                "html_instructions": "Slight <b>left</b>",
+                                "maneuver": "turn-slight-left",
+                                "polyline": {
+                                    "points": "k`ihCae_zOGAIAKCKACJo@AEAECGAMC"
+                                },
+                                "start_location": {
+                                    "lat": 22.4974968,
+                                    "lng": 88.3107287
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "o_whCywfzOCLv@RrCx@fFjApKhCvAZjAt@D`@B?HBB@VSrARLBDEDAp@I~@G\\AzCs@bAY^MhA]tBq@?QJKP?JLARfH|ErSpNPLLTR`@f@NfBf@bGdBlBr@TL`@Lh@NZJbZvK|An@|@LfH@zKNbENdARv@Zv@f@dAbA^h@d@f@`@DRx@TpAl@fEJv@HfADnAGz@Oj@[|@i@zA{@rB~CbBb@RvAd@xA`@f@FxGLjJXL@r@d@|@n@VVVf@Xv@Th@VXVLh@H|BJtGJdIZhLz@`@HfADxHz@vAb@b@L^BdDZxARdBPzANdBD@CDEFAFBDD?H?BHXBL?TWbCBj@b@xBB`@Q`BgAzH?h@DZFPt@t@j@n@BPAp@MjAn@JdMnB`Df@rGdAdEf@lEz@TCXDjF~@dGlA`A^pCp@zDz@v@RRHLJ\\Hf@JhBf@hEnAvBr@tBh@nA^tGhBzAb@tAb@t@VlGrBpBf@pGnAhBVtALzAPzBXrBLfCRhALlGdAdBX?E?DPBEXy@M?J?T?XQLOBMDKJK`AGD[FOHKLIZ@TBJP`@BjAAvAHB@D@LAh@MxAIh@KjAS|C[hBO~Aq@QSt@KZKJ_AKM?UPe@KKACJu@C[I"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    }
+]

@@ -1,0 +1,775 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.5855959,
+                "lng": 88.35009409999999
+            },
+            "southwest": {
+                "lat": 22.5399424,
+                "lng": 88.3349045
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "fare": {
+            "currency": "INR",
+            "text": "₹16.00",
+            "value": 16
+        },
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "3:30pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554890440
+                },
+                "departure_time": {
+                    "text": "2:51pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554888098
+                },
+                "distance": {
+                    "text": "7.3 km",
+                    "value": 7285
+                },
+                "duration": {
+                    "text": "39 mins",
+                    "value": 2342
+                },
+                "end_address": "Howrah, West Bengal, India",
+                "end_location": {
+                    "lat": 22.585477,
+                    "lng": 88.343104
+                },
+                "start_address": "Kolkata, West Bengal, India",
+                "start_location": {
+                    "lat": 22.540709,
+                    "lng": 88.33493299999999
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "2.6 km",
+                            "value": 2581
+                        },
+                        "duration": {
+                            "text": "9 mins",
+                            "value": 537
+                        },
+                        "end_location": {
+                            "lat": 22.554715,
+                            "lng": 88.34985700000001
+                        },
+                        "html_instructions": "Bus towards Raja Bazar",
+                        "polyline": {
+                            "points": "mnqhCi|czOHDx@sBNc@Z{@Ti@DQDQDW?M@I?YCc@C_@Ik@?CMaA?AOgAAMKi@Mq@Ic@e@eBIc@I_@Ke@Ia@G_@Ii@Gi@IoAGy@Ai@GEEGCGCOKs@CMSwAYmBMy@EW?CGo@cAw@KKOOUKe@a@_BmA_DaCqCgBgCcBw@g@m@a@uAy@yA_AuEyC]WCCCEAGaG{@gImA]E[E{C[YM_BYg@IuDi@o@IOCOCgC_@k@IAF"
+                        },
+                        "start_location": {
+                            "lat": 22.540709,
+                            "lng": 88.33493299999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.554715,
+                                    "lng": 88.34985700000001
+                                },
+                                "name": "Park Street"
+                            },
+                            "arrival_time": {
+                                "text": "3:00pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554888635
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.540709,
+                                    "lng": 88.33493299999999
+                                },
+                                "name": "Sharda Mani Satu"
+                            },
+                            "departure_time": {
+                                "text": "2:51pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554888098
+                            },
+                            "headsign": "Raja Bazar",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "C1A",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 6
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "4.7 km",
+                            "value": 4704
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 875
+                        },
+                        "end_location": {
+                            "lat": 22.585477,
+                            "lng": 88.343104
+                        },
+                        "html_instructions": "Bus towards Howrah Station",
+                        "polyline": {
+                            "points": "_fthCsyfzO?BgBYgAIiAMK?A?GDGBKBcA^E?oDbAqLlDaB^?@?@?@?B?@?@?@A@?@?@A??@A??@A??@A??@A?A?A@A?A?A?A?A?A?AAA?AAA??AAAA??AAA?A?AYJWHa@LSFMDE@a@LC@]J_@La@Ja@L{Cr@]JQDE@EBC@IDSNk@f@uBVA@CBA@ABC@A@C@C@O^OVOZKZIXCNAHE\\AXEz@@B@B@B@B@B?B?B?BAFCDCFCDEDEBEBEBG@KBE?GAEAEAEACCEECEUAA?a@?c@?e@nAUh@_BvFu@jBg@bAIPELMTwBdF_Bq@iDkBQMWOUOMKUOOKeB{AuAgAOKyIeGeAm@kCwA}BwAwDqBYOo@[KGSKcBw@q@QQEOEm@SUKEAMGc@O_@MMEGEeD}@{@Wk@QiAa@u@W[ImA]k@Qk@QmAc@GCwB}@EAWMa@OMDGBI?K?MEWGc@Q_@MOEEAG?C?E?A?G?I?c@AqAEs@CkACKAEAEAGCMEMCMG[GQ?K@MFMLCDEJA@CHEPIf@ABa@pBmAxHMz@i@nDu@nFBp@@NALBFBF@B@B@@B@D@BB@@B@F@UhD"
+                        },
+                        "start_location": {
+                            "lat": 22.554715,
+                            "lng": 88.34985700000001
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.585477,
+                                    "lng": 88.343104
+                                },
+                                "name": "Howrah Station"
+                            },
+                            "arrival_time": {
+                                "text": "3:30pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554890440
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.554715,
+                                    "lng": 88.34985700000001
+                                },
+                                "name": "Park Street"
+                            },
+                            "departure_time": {
+                                "text": "3:16pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554889565
+                            },
+                            "headsign": "Howrah Station",
+                            "headway": 900,
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "S5",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 10
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "mnqhCi|czOHDx@sBj@_BZ{@Ji@@WC}@[qC]aCWuAo@iCg@gCQsAQiCAi@GEIOg@iDm@cEGo@cAw@[[UKe@a@_GoE_KuGoDyBsFqDGIAGaG{@eJsAwDa@YM_BY}Es@wEq@k@IAF?BgBYqCWM?_Bl@uDbAqLlDaB^?@?@?D?DCDOHOEEG}C~@cBf@}D`Ao@PYL_Av@wBXKJEBS`@_@r@Ut@EXGv@C~@BFBNIXURMDQBYGIICEUAc@?c@?e@nAUh@_BvF}AnDuCzG_Bq@iDkBi@]iAw@{DcDiJqGqEeC}BwAwDqBiAk@_@ScBw@q@Qa@KwAi@yAi@aFuAuBs@kEqAyBu@_CaA]Oa@OMDQBYEkBm@oAC}EOa@M[K[GQ?YHQRQh@Kj@a@pBmAxHw@jFu@nFBp@?\\FNHJNHF@UhD"
+        },
+        "summary": "",
+        "warnings": [],
+        "waypoint_order": []
+    },
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.585656,
+                "lng": 88.3530761
+            },
+            "southwest": {
+                "lat": 22.5399424,
+                "lng": 88.3349045
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "fare": {
+            "currency": "INR",
+            "text": "₹14.00",
+            "value": 14
+        },
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "3:30pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554890453
+                },
+                "departure_time": {
+                    "text": "2:51pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554888098
+                },
+                "distance": {
+                    "text": "7.4 km",
+                    "value": 7449
+                },
+                "duration": {
+                    "text": "39 mins",
+                    "value": 2355
+                },
+                "end_address": "Howrah, West Bengal, India",
+                "end_location": {
+                    "lat": 22.585477,
+                    "lng": 88.343104
+                },
+                "start_address": "Kolkata, West Bengal, India",
+                "start_location": {
+                    "lat": 22.540709,
+                    "lng": 88.33493299999999
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "3.7 km",
+                            "value": 3711
+                        },
+                        "duration": {
+                            "text": "13 mins",
+                            "value": 774
+                        },
+                        "end_location": {
+                            "lat": 22.564768,
+                            "lng": 88.351232
+                        },
+                        "html_instructions": "Bus towards Raja Bazar",
+                        "polyline": {
+                            "points": "mnqhCi|czOHDx@sBNc@Z{@Ti@DQDQDW?M@I?YCc@C_@Ik@?CMaA?AOgAAMKi@Mq@Ic@e@eBIc@I_@Ke@Ia@G_@Ii@Gi@IoAGy@Ai@GEEGCGCOKs@CMSwAYmBMy@EW?CGo@cAw@KKOOUKe@a@_BmA_DaCqCgBgCcBw@g@m@a@uAy@yA_AuEyC]WCCCEAGaG{@gImA]E[E{C[YM_BYg@IuDi@o@IOCOCgC_@k@IcAQ_@EAAWCoAKe@Eq@C[AcH_@iCOaBK_CIuDMYAKAOAi@C}CMw@EsAKaAGw@Gk@Ec@EIAIAMAgAQ_AQc@KKCMEQGEL"
+                        },
+                        "start_location": {
+                            "lat": 22.540709,
+                            "lng": 88.33493299999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.564768,
+                                    "lng": 88.351232
+                                },
+                                "name": "Esplanade (KC Das)"
+                            },
+                            "arrival_time": {
+                                "text": "3:04pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554888872
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.540709,
+                                    "lng": 88.33493299999999
+                                },
+                                "name": "Sharda Mani Satu"
+                            },
+                            "departure_time": {
+                                "text": "2:51pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554888098
+                            },
+                            "headsign": "Raja Bazar",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "C1A",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 9
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "3.7 km",
+                            "value": 3738
+                        },
+                        "duration": {
+                            "text": "10 mins",
+                            "value": 591
+                        },
+                        "end_location": {
+                            "lat": 22.585477,
+                            "lng": 88.343104
+                        },
+                        "html_instructions": "Bus towards Howrah Station",
+                        "polyline": {
+                            "points": "ydvhCebgzODM]KuAg@a@MUIi@WGEECCEy@MWESCGAaAQWGm@Og@QIC{@_@UKUImAi@QGWIYGKCQCSEQAkBK]vBO|@UjBQ`AU|@y@pEO^CJADOj@UlASdA]~AG\\[tBCNkGoACRGVCFAHGRUh@k@~@_AlBe@|@m@hAGPwDqBYOo@[KGSKcBw@q@QQEOEm@SUKEAMGc@O_@MMEGEeD}@{@Wk@QiAa@u@W[ImA]k@Qk@QmAc@GCwB}@EABMIEQEOGQGOEGCYGQEOEQCQEOEQCICYAQ?QAQ?QAW?K?Q@Q@Q?Q@Q@O?SAOAWAKEQEOGQCOASCOAS@K?QPKHETCJEVALEVCLEVALEVETCNAJEXCJEVALEVCLEVCLCVCLEVCJCXCJEVCLEVALEVCLCVCLEVCJEXAJEVCREPCLEVALGVAJEVCLEVCLEVCL?VAJDX@JFXBLNF^Bn@Ht@TXVF^If@Yj@o@Zi@Dk@O@E"
+                        },
+                        "start_location": {
+                            "lat": 22.564768,
+                            "lng": 88.351232
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.585477,
+                                    "lng": 88.343104
+                                },
+                                "name": "Howrah Station"
+                            },
+                            "arrival_time": {
+                                "text": "3:30pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554890453
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.564768,
+                                    "lng": 88.351232
+                                },
+                                "name": "Esplanade (KC Das)"
+                            },
+                            "departure_time": {
+                                "text": "3:21pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554889862
+                            },
+                            "headsign": "Howrah Station",
+                            "headway": 960,
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "S24",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 9
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "mnqhCi|czOHDx@sBj@_BZ{@Ji@@WC}@[qC]aCWuAo@iCg@gCQsAQiCAi@GEIOg@iDm@cEGo@cAw@[[UKe@a@_GoE_KuGoDyBsFqDGIAGaG{@eJsAwDa@YM_BY}Es@wEq@oCa@oCWmAEmLo@aFUoEOcFUeGa@cBOuAScB]YIQGELDM]KwBu@_Aa@MICEy@Mk@IoCk@q@UqAk@mCeAkAU}BMm@tDg@lDU|@y@pESj@Qp@oApG_@dCkGoACRK^I\\Uh@k@~@eBjDu@zAqEaCsDgBcAW}@YmAe@m@SmDcAgFcBaEkAsEgBBMIEa@McAYeAUa@Ic@EgACgABeABc@Cc@Ga@Ma@Ec@E_@@]ZI`@QjAc@tCgAlHiAjHSjAId@Ab@RlAn@Jn@Ht@TXVF^If@Yj@o@Zi@Dk@O@E"
+        },
+        "summary": "",
+        "warnings": [],
+        "waypoint_order": []
+    },
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.5856431,
+                "lng": 88.35094389999999
+            },
+            "southwest": {
+                "lat": 22.5399424,
+                "lng": 88.3349045
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "fare": {
+            "currency": "INR",
+            "text": "₹16.00",
+            "value": 16
+        },
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "3:32pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554890561
+                },
+                "departure_time": {
+                    "text": "2:51pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554888098
+                },
+                "distance": {
+                    "text": "7.8 km",
+                    "value": 7761
+                },
+                "duration": {
+                    "text": "41 mins",
+                    "value": 2463
+                },
+                "end_address": "Howrah, West Bengal, India",
+                "end_location": {
+                    "lat": 22.585477,
+                    "lng": 88.343104
+                },
+                "start_address": "Kolkata, West Bengal, India",
+                "start_location": {
+                    "lat": 22.540709,
+                    "lng": 88.33493299999999
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "3.5 km",
+                            "value": 3522
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 735
+                        },
+                        "end_location": {
+                            "lat": 22.563102,
+                            "lng": 88.35081199999999
+                        },
+                        "html_instructions": "Bus towards Raja Bazar",
+                        "polyline": {
+                            "points": "mnqhCi|czOHDx@sBNc@Z{@Ti@DQDQDW?M@I?YCc@C_@Ik@?CMaA?AOgAAMKi@Mq@Ic@e@eBIc@I_@Ke@Ia@G_@Ii@Gi@IoAGy@Ai@GEEGCGCOKs@CMSwAYmBMy@EW?CGo@cAw@KKOOUKe@a@_BmA_DaCqCgBgCcBw@g@m@a@uAy@yA_AuEyC]WCCCEAGaG{@gImA]E[E{C[YM_BYg@IuDi@o@IOCOCgC_@k@IcAQ_@EAAWCoAKe@Eq@C[AcH_@iCOaBK_CIuDMYAKAOAi@C}CMw@EsAKaAGw@GAL"
+                        },
+                        "start_location": {
+                            "lat": 22.540709,
+                            "lng": 88.33493299999999
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.563102,
+                                    "lng": 88.35081199999999
+                                },
+                                "name": "Esplanade"
+                            },
+                            "arrival_time": {
+                                "text": "3:03pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554888833
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.540709,
+                                    "lng": 88.33493299999999
+                                },
+                                "name": "Sharda Mani Satu"
+                            },
+                            "departure_time": {
+                                "text": "2:51pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554888098
+                            },
+                            "headsign": "Raja Bazar",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "C1A",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 8
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "0.2 km",
+                            "value": 170
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 131
+                        },
+                        "end_location": {
+                            "lat": 22.5638384,
+                            "lng": 88.34977959999999
+                        },
+                        "html_instructions": "Walk to Shaheed Minar",
+                        "polyline": {
+                            "points": "izuhC_`gzOk@Ec@EEVg@`CWlA"
+                        },
+                        "start_location": {
+                            "lat": 22.5630935,
+                            "lng": 88.3508809
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "44 m",
+                                    "value": 44
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 32
+                                },
+                                "end_location": {
+                                    "lat": 22.5634876,
+                                    "lng": 88.35094389999999
+                                },
+                                "html_instructions": "Head <b>north</b> on <b>Chowringee Rd</b>/<b>Jawaharlal Nehru Rd</b> toward <b>Rashmoni Ave</b>/<b>SN Banerjee Road</b>",
+                                "polyline": {
+                                    "points": "izuhC_`gzOk@Ec@E"
+                                },
+                                "start_location": {
+                                    "lat": 22.5630935,
+                                    "lng": 88.3508809
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 126
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 99
+                                },
+                                "end_location": {
+                                    "lat": 22.5638384,
+                                    "lng": 88.34977959999999
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Rashmoni Ave</b><div style=\"font-size:0.9em\">Pass by Metiaburz Bus Stand esplande (on the left in 76&nbsp;m)</div><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "y|uhCk`gzOEVg@`CWlA"
+                                },
+                                "start_location": {
+                                    "lat": 22.5634876,
+                                    "lng": 88.35094389999999
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "4.1 km",
+                            "value": 4069
+                        },
+                        "duration": {
+                            "text": "11 mins",
+                            "value": 666
+                        },
+                        "end_location": {
+                            "lat": 22.585477,
+                            "lng": 88.343104
+                        },
+                        "html_instructions": "Bus towards Howrah Station",
+                        "polyline": {
+                            "points": "q~uhC_yfzOMCI^Q~@a@hBw@lDhAp@@B@DBZ@?@?@?B@@?@@@?@@DBDBBBBDBDBF@D?F@FAD?FADELA@CBA@ABC@A@C@C@E@E@G@E?EAGAEAECECGGACAEACACAE?CAE?CWw@q@s@WYOK}C{@sBk@QCiD_Ag@MUGmB]OGkCy@_@MGAsAYoCs@GAE?G?GBOBCJADOj@UlASdA]~AG\\[tBCNOv@Kf@ENW`AI`@i@`CeAzFeAm@kCwA}BwAwDqBYOo@[KGSKcBw@q@QQEOEm@SUKEAMGc@O_@MMEGEeD}@{@Wk@QiAa@u@W[ImA]k@Qk@QmAc@GCwB}@EA?CYK_@ISC_@Eq@Se@Se@Ke@KQ?MAU?Q?Q?Q?Q?Q?O?S?QAQ?Q?OAKCUESEIC[AU?O@OHKPCJGPCPEPEPERCPEPERCPCHEZEPCPCRCPERCPCPERCPCRCPERCPCPERCPCRCPEPCRCPERCPCPERCPCRCLCVEPCPCRCPCRCPCRCPERCPCRCPCPCRBPBNX\\h@JB@`ALd@ZNf@Gb@Wd@i@^e@H[G[I?A"
+                        },
+                        "start_location": {
+                            "lat": 22.563769,
+                            "lng": 88.349756
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.585477,
+                                    "lng": 88.343104
+                                },
+                                "name": "Howrah Station"
+                            },
+                            "arrival_time": {
+                                "text": "3:32pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554890561
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.563769,
+                                    "lng": 88.349756
+                                },
+                                "name": "Shaheed Minar"
+                            },
+                            "departure_time": {
+                                "text": "3:21pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554889895
+                            },
+                            "headsign": "Howrah Station",
+                            "headway": 900,
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "WBSTC",
+                                        "phone": "011 91 33 2262 8271",
+                                        "url": "http://transport.wb.gov.in/"
+                                    }
+                                ],
+                                "short_name": "S12",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "name": "Bus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 11
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "mnqhCi|czOHDx@sBj@_BZ{@Ji@@WC}@[qC]aCWuAo@iCg@gCQsAQiCAi@GEIOg@iDm@cEGo@cAw@[[UKe@a@_GoE_KuGoDyBsFqDGIAGaG{@eJsAwDa@YM_BY}Es@wEq@oCa@oCWmAEmLo@aFUoEOcFUeGa@AL@MoAKm@xCWlALBMCI^s@hDw@lDhAp@BHDZB?HBPLLX?\\MXIHSF[AKEMKGQCSWw@q@s@g@e@mMkD}@U}Be@kDgA{A[wCu@M?WFEPwA~Gw@zEs@zCi@`CeAzFqEeC}BwAwDqBiAk@_@ScBw@q@Qa@KcA_@wAg@UKaFuAgEuAyBo@yBu@_CaAEEy@Us@IwAg@kAWgAAoCAa@Aa@I]Iq@AO@OHO\\WfAi@tCc@tCiAlHcAlHGd@F`@X\\h@JdANd@ZNf@Gb@Wd@i@^e@Hw@Q?A"
+        },
+        "summary": "",
+        "warnings": [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order": []
+    },
+    {
+        "bounds": {
+            "northeast": {
+                "lat": 22.654642,
+                "lng": 88.39417840000002
+            },
+            "southwest": {
+                "lat": 22.5676461,
+                "lng": 88.3483007
+            }
+        },
+        "copyrights": "Map data ©2019 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "3:50pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554891600
+                },
+                "departure_time": {
+                    "text": "3:26pm",
+                    "time_zone": "Asia/Calcutta",
+                    "value": 1554890160
+                },
+                "distance": {
+                    "text": "14.7 km",
+                    "value": 14661
+                },
+                "duration": {
+                    "text": "24 mins",
+                    "value": 1440
+                },
+                "end_address": "Howrah, West Bengal, India",
+                "end_location": {
+                    "lat": 22.6525549,
+                    "lng": 88.3483007
+                },
+                "start_address": "Kolkata, West Bengal, India",
+                "start_location": {
+                    "lat": 22.5676461,
+                    "lng": 88.3707442
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "14.7 km",
+                            "value": 14661
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1440
+                        },
+                        "end_location": {
+                            "lat": 22.6525549,
+                            "lng": 88.3483007
+                        },
+                        "html_instructions": "Train towards Dankuni Junction",
+                        "polyline": {
+                            "points": "yvvhCc|jzOqCwKaBsEsAyDUe@Yo@Ug@Sk@Sm@_@kBQ_AEMGUI[K[Qi@Sg@Sg@q@iBWo@CIS_@{@mBa@w@iAqBkAgBIO}@mAm@u@q@{@u@y@iAkAs@s@IIIGoBaBiCqBuDiCoCaBmBkAgCkAQESI}@e@qDgBWM_CeAMEc@QOGSK_A_@aBo@CAsBu@{By@iBm@qAa@e@OaBc@UIWGcAYQGsA[MEcE_AgAS}Be@uF_AKCE?oHiA_Da@sEo@WEK?QE_IgAeH{@o@Ko@KgBWeAOeAMa@Ei@KeC[sIiAyCc@YCUCqCa@mDc@eIy@oG_@eBGyHOC?]A_@?wF?uDAaABkAFcCHuDJaDJiDHsL\\wJZgABwELa@@_@B}FPqADA?oCHmCH_@@i@IA?g@Be@GC?q@B]Bm@?sCHqHRoENgDLM@M?kFLoFN{M^uBDyB@{AGeAIaAMgAS_GcAUEuCo@QCOEgAQ_ASs@Ms@OIAgB]qCe@mBUeBSmBMaCAiBF}BRyAPqAVyA^gAZiA`@cAd@gAj@cAp@eAp@iA`AURg@f@_AbA_@j@MRk@|@[f@MTg@`AKPGLc@bAKVWp@Ur@Sp@YfAKb@q@~CEXk@rCWhAm@zCwC~NyAfHg@bCiAvFS`AIb@Kd@Ib@EPCLADKb@w@xDEREVGTa@xB]`BUpBIv@KrAErACtA?nAFzB?V?P@XDp@?@XxHTbFRpF@\\FlAH`CBd@Bb@F|AJrBFbB?@P`EFtALdDBj@DlA?@BZ@ZJrC@h@HnBR~EPvDDbB?R?J@NHzCPvDPlFVjFR|EFvAHnBH|AJfB@\\@`@D|@H`BHzB@d@D|@O@"
+                        },
+                        "start_location": {
+                            "lat": 22.5676461,
+                            "lng": 88.3707442
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": 22.6525549,
+                                    "lng": 88.3483007
+                                },
+                                "name": "Bally Ghat"
+                            },
+                            "arrival_time": {
+                                "text": "3:50pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554891600
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": 22.5676461,
+                                    "lng": 88.3707442
+                                },
+                                "name": "Sealdah"
+                            },
+                            "departure_time": {
+                                "text": "3:26pm",
+                                "time_zone": "Asia/Calcutta",
+                                "value": 1554890160
+                            },
+                            "headsign": "Dankuni Junction",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "Indian Railways",
+                                        "url": "http://www.indianrail.gov.in/"
+                                    }
+                                ],
+                                "name": "32237 - Sealdah - Dankuni Local",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/rail2.png",
+                                    "name": "Train",
+                                    "type": "HEAVY_RAIL"
+                                }
+                            },
+                            "num_stops": 5
+                        },
+                        "travel_mode": "TRANSIT"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "yvvhCc|jzOqCwKaBsEsAyDUe@o@wAg@yA_AoEUw@e@qAaBkEoAmCkBiDuAwBkBcCgBuB}B_CSQyFsEuDiCoCaBmBkAgCkAe@OoFmCiEkBeEcB}I_DoF_BaEeAqEeAeEy@wPmCwKwAgTuCcHaAePwB{ImAmDc@eIy@oG_@eBG}HO}@AmLAmCJeSj@kXx@_HPqK\\_ITk@Ig@Bi@GoAFaEHaOb@uDNyFLkUn@uBDyB@aDQiCa@uGiAgDs@kEy@wHuAsEi@mBMaCAiBF}BRyAPqAVaDz@mCfAkC|AeAp@iA`A}@z@_AbA_@j@y@pAi@|@_BdDc@hAi@dBe@jBw@xDiGxZ_FdVoBpJu@zD]`BUpBUjCIhDFjEFtBzAd`@fAxW\\pJt@jRJjEb@dLj@hMf@lKR~EJ`DD|@O@"
+        },
+        "summary": "",
+        "warnings": [],
+        "waypoint_order": []
+    }
+]
